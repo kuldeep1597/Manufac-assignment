@@ -1,0 +1,25 @@
+.App {
+  display : flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 100px auto;
+  gap: 20px;
+}
+
+table, td, th {  
+  border: 1px solid black;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 350px;
+}
+
+th, td {
+  padding: 10px;
+}
+
+
+
